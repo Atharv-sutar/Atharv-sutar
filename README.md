@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning  C++, Python
 - 👯 I’m looking to collaborate on C++ projects
-- 🤔 I’m looking for help with courier guidance
+- 🤔 I’m looking for help with career guidance
 - 
 - 📫You can reach me at
    - Instagram: [atharv_sutar.27](https://www.instagram.com/atharv_sutar.27?igsh=eGYydnY3cXpiN3J1 )
