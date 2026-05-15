@@ -1,12 +1,8 @@
-### Hello there 👋 I'm Atharv Sutar, currently pursuing my education at KLS Gogte Institute of Technology. I have a keen interest in the world of programming and am enthusiastically exploring the realms of C/C++ and Python. As a beginner in these languages, I am dedicated to honing my coding skills and aspire to become a proficient coder in the near future.
+Hi, I'm Atharv Sutar, a Computer Science student at KLS Gogte Institute of Technology with a strong interest in software development, embedded systems, and robotics.
 
+I primarily work with C/C++ and Python, and I enjoy building projects that help me strengthen my problem-solving and programming skills. Currently, I am exploring areas such as Data Structures & Algorithms, Embedded Systems, Linux, and IoT.
 
-- 🌱 I’m currently learning  C++, Python
-- 👯 I’m looking to collaborate on C/C++ projects
-- 🤔 I’m looking for help with career guidance
-- 
-- 📫You can reach me at
-   - Email: atharvsutar270@gmail.com
+I’m open to collaborating on beginner-friendly and intermediate C/C++ projects, learning from experienced developers, and contributing to meaningful open-source work.
 
-
-  😉 Feel free to connect with me on Instagram or drop me an email. I look forward to hearing from you!
+Contact:
+Email: [atharvsutar270@gmail.com](mailto:atharvsutar270@gmail.com)
