@@ -120,15 +120,15 @@ Embedded automation system for monitoring and managing water flow using sensor i
 
 **Cisco NetAcad**
 
-<a href="https://www.credly.com/org/cisco/badge/operating-systems-basics">
-  <img src="https://images.credly.com/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="100" alt="Cisco Operating Systems Basics Badge" title="Operating Systems Basics"/>
+<a href="https://www.credly.com/badges/6ad01ad7-d187-43da-9e66-dc4d86442c6f/public_url">
+  <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="100" alt="Networking Devices and Initial Configuration" title="Networking Devices and Initial Configuration"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.credly.com/org/cisco/badge/networking-devices-and-initial-configuration">
-  <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="100" alt="Cisco Networking Devices and Initial Configuration Badge" title="Networking Devices and Initial Configuration"/>
+<a href="https://www.credly.com/badges/e45a7152-8b03-4947-b72d-483669303ea5/public_url">
+  <img src="https://images.credly.com/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="100" alt="Operating Systems Basics" title="Operating Systems Basics"/>
 </a>
 
-<sub>Operating Systems Basics &nbsp;·&nbsp; Networking Devices and Initial Configuration</sub>
+<sub>Networking Devices and Initial Configuration &nbsp;·&nbsp; Operating Systems Basics</sub>
 
 ---
 
