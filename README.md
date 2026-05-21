@@ -138,15 +138,29 @@ Embedded automation system for monitoring and managing water flow using sensor i
 
 ## Areas of Focus
 
-```
-Embedded Systems          ██████████████░░░░░░   IoT & Hardware
-AI / ML                   ████████████░░░░░░░░   Applied Intelligence
-Full Stack Development    ██████████░░░░░░░░░░   Web & Backend
-Open Source               ████████░░░░░░░░░░░░   Community & Contribution
-Android Optimization      ██████░░░░░░░░░░░░░░   System-Level Tools
-```
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-IoT%20%26%20Hardware-2c5364?style=flat-square)
+![AI / ML](https://img.shields.io/badge/AI%20%2F%20ML-Applied%20Intelligence-203a43?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Web%20%26%20Backend-0f2027?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Community%20%26%20Contribution-2c5364?style=flat-square)
+![Android](https://img.shields.io/badge/Android%20Optimization-System--Level%20Tools-203a43?style=flat-square)
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Atharv-sutar&theme=tokyonight&hide_border=true&border_radius=10)
+
+<br/>
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv-sutar&theme=tokyo-night&hide_border=true&radius=8)
+
+</div>
 
 ## Currently Exploring
 
