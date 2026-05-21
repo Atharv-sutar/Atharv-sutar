@@ -116,7 +116,11 @@ Embedded automation system for monitoring and managing water flow using sensor i
 
 **NPTEL**
 
-[![NPTEL](https://img.shields.io/badge/NPTEL-Certified-F7941D?style=flat-square&logo=google-scholar&logoColor=white)](https://nptel.ac.in)
+[![Practical Cyber Security](https://img.shields.io/badge/NPTEL-Practical%20Cyber%20Security-F7941D?style=flat-square&logo=google-scholar&logoColor=white)](https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs120/Course/NPTEL25CS120S55240011110268304.pdf)
+&nbsp;
+[![Fundamentals of OOP](https://img.shields.io/badge/NPTEL-Fundamentals%20of%20OOP-F7941D?style=flat-square&logo=google-scholar&logoColor=white)](https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/106/noc25-cs34/Course/NPTEL25CS34S64210024904306727.pdf)
+
+<sub>Practical Cyber Security for Cyber Security Practitioners &nbsp;·&nbsp; Fundamentals of Object Oriented Programming</sub>
 
 **Cisco NetAcad**
 
