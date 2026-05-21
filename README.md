@@ -1,8 +1,172 @@
-Hi, I'm Atharv Sutar, a Computer Science student at KLS Gogte Institute of Technology with a strong interest in software development, embedded systems, and robotics.
+<div align="center">
 
-I primarily work with C/C++ and Python, and I enjoy building projects that help me strengthen my problem-solving and programming skills. Currently, I am exploring areas such as Data Structures & Algorithms, Embedded Systems, Linux, and IoT.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Atharv%20Sutar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=58&descSize=16" width="100%"/>
 
-I’m open to collaborating on beginner-friendly and intermediate C/C++ projects, learning from experienced developers, and contributing to meaningful open-source work.
+</div>
 
-Contact:
-Email: [atharvsutar270@gmail.com](mailto:atharvsutar270@gmail.com)
+<br/>
+
+```
+                 Engineering at the intersection of software, hardware, and intelligence.
+```
+
+<br/>
+
+## About
+
+I'm a Computer Science Engineering student who builds to understand — whether that's a smart agriculture system using Arduino, an AI-powered study tool, or a bare-metal Android optimization utility. I care about projects that are purposeful, functional, and solve real problems.
+
+My work spans embedded systems, full-stack development, and applied AI — with a consistent focus on automation, efficiency, and clean engineering.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Debloat Engine
+**Android Debloating & Optimization Toolkit**
+
+A C++-based utility for removing bloatware from Android devices via ADB. Designed for clarity, safety, and performance-focused workflows.
+
+`C++` `ADB` `Android` `CLI`
+
+- Package management automation
+- Safe debloating workflows with logging
+- Beginner-friendly structure
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 AgroSense
+**Smart Agriculture Monitoring System**
+
+IoT-based solution for real-time soil and environmental monitoring to assist smart irrigation and crop management.
+
+`Arduino` `Embedded C/C++` `IoT` `Tinkercad`
+
+- Soil moisture & environmental sensing
+- Automation-assisted irrigation logic
+- Low-cost, accessible hardware design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 StudyGen
+**AI-Powered Study Assistance Platform**
+
+A full-stack web platform that helps students generate and organize study material with intelligent automation.
+
+`Python` `Flask` `MySQL` `JavaScript`
+
+- Smart study content generation
+- Organized learning structure
+- Productivity-first student UI
+
+</td>
+<td width="50%" valign="top">
+
+### 💧 AquaFlow
+**Smart Water Management System**
+
+Embedded automation system for monitoring and managing water flow using sensor integration and IoT principles.
+
+`Arduino` `Sensors` `Embedded Programming` `IoT`
+
+- Real-time flow monitoring
+- Automation-driven water management
+- Sustainable, low-cost hardware solution
+
+</td>
+</tr>
+</table>
+
+---
+
+## Certifications & Achievements
+
+**HackerRank**
+
+[![C++ 5 Star](https://img.shields.io/badge/C%2B%2B-5%20Stars%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
+[![C 4 Star](https://img.shields.io/badge/C-4%20Stars%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
+
+**NPTEL**
+
+[![NPTEL](https://img.shields.io/badge/NPTEL-Certified-F7941D?style=flat-square&logo=google-scholar&logoColor=white)](https://nptel.ac.in)
+
+**Cisco NetAcad**
+
+<a href="https://www.credly.com/org/cisco/badge/operating-systems-basics">
+  <img src="https://images.credly.com/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="100" alt="Cisco Operating Systems Basics Badge" title="Operating Systems Basics"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/org/cisco/badge/networking-devices-and-initial-configuration">
+  <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="100" alt="Cisco Networking Devices and Initial Configuration Badge" title="Networking Devices and Initial Configuration"/>
+</a>
+
+<sub>Operating Systems Basics &nbsp;·&nbsp; Networking Devices and Initial Configuration</sub>
+
+---
+
+## Areas of Focus
+
+```
+Embedded Systems          ██████████████░░░░░░   IoT & Hardware
+AI / ML                   ████████████░░░░░░░░   Applied Intelligence
+Full Stack Development    ██████████░░░░░░░░░░   Web & Backend
+Open Source               ████████░░░░░░░░░░░░   Community & Contribution
+Android Optimization      ██████░░░░░░░░░░░░░░   System-Level Tools
+```
+
+---
+
+## Currently Exploring
+
+- Embedded Linux
+- AI & ML concepts applied to real systems
+- Full Stack depth — backend architecture and scalability
+- Open source contribution workflow
+
+---
+
+## Connect
+
+<a href="https://github.com/AtharvSutar">
+  <img src="https://img.shields.io/badge/GitHub-AtharvSutar-181717?style=flat-square&logo=github"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/atharv-sutar-0755a1367">
+  <img src="https://img.shields.io/badge/LinkedIn-atharv--sutar-0A66C2?style=flat-square&logo=linkedin"/>
+</a>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
