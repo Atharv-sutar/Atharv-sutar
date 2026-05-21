@@ -1,7 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Atharv%20Sutar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=58&descSize=16" width="100%"/>
-
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7a4a3a,25:6b3d7d,50:4c3f91,75:2f4f7a,100:355c7d&height=220&section=header&text=Atharv%20Sutar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=60&descSize=18&waveHeight=95"
+    width="100%"
+  />
 </div>
 
 <br/>
@@ -201,6 +202,9 @@ Embedded automation system for monitoring and managing water flow using sensor i
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7a4a3a,25:6b3d7d,50:4c3f91,75:2f4f7a,100:355c7d&height=140&section=footer&waveHeight=70"
+    width="100%"
+  />
 
 </div>
